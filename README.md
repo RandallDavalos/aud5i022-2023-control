@@ -355,3 +355,5 @@ Logrado esto, registramos el siguiente vídeo:
 # Conclusiones:
 
 Por mi parte (Randall) encontré cierta dificultad en realizar el proyecto. Si bien entendí como funcionaban ciertas partes del código al utilizar de base lo proporcionado por montoyamoraga (clase 4), fue complicado reconocer que cosas debía eliminar y cuales necesitaba duplicar.
+
+En lo personal (Laura), no tuve mayores dificultades con las secciones del código que contaban con comentarios explicativos, pero aún me falta conocimeitno paara saber de forma más intuitiva lo que hacen todas las partes del código. Aún así, resultó muy entrtenido. 

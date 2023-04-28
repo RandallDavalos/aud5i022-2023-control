@@ -30,37 +30,37 @@ Software: Arduino IDE 2.10
 
 Arduino UNO.
 
-![Breadboard. ](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_153203.jpg)
+![Breadboard. ](20230428_153203.jpg)
 
 Breadboard. 
 
-![Botón/pulsador](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_153754.jpg)
+![Botón/pulsador](20230428_153754.jpg)
 
 Botón/pulsador
 
-![Resistencia de 1k.](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_153401.jpg)
+![Resistencia de 1k.](20230428_153401.jpg)
 
 Resistencia de 1k.
 
-![Luces LED. ](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_153211.jpg)
+![Luces LED. ](20230428_153211.jpg)
 
 Luces LED. 
 
 # Circuito
 
-![Primeros intentos de circuito para ejecutar el ‘Press 2 Cross’](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_154205.jpg)
+![Primeros intentos de circuito para ejecutar el ‘Press 2 Cross’](20230428_154205.jpg)
 
 Primeros intentos de circuito para ejecutar el ‘Press 2 Cross’
 
-![segundo intento, ahora colocando más elementos con el  propósito de saber si ‘funciona’](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_154518.jpg)
+![segundo intento, ahora colocando más elementos con el  propósito de saber si ‘funciona’](20230428_154518.jpg)
 
 segundo intento, ahora colocando más elementos con el  propósito de saber si ‘funciona’
 
-![Circuito completo. ](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_172658.jpg)
+![Circuito completo. ](20230428_172658.jpg)
 
 Circuito completo. 
 
-![Circuito completo y funcionando. ](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_160016.jpg)
+![Circuito completo y funcionando. ](20230428_160016.jpg)
 
 Circuito completo y funcionando. 
 
@@ -350,7 +350,7 @@ void loop() {
 
 Logrado esto, registramos el siguiente vídeo:
 
-[20230428_170010_1.mp4](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_170010_1.mp4)
+[20230428_170010_1.mp4)
 
 # Conclusiones:
 

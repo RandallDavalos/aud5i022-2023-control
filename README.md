@@ -26,7 +26,7 @@ Realizaremos, utilizando Arduino UNO y Arduino, un semáforo que realice las sig
 
 Software: Arduino IDE 2.10
 
-![Arduino UNO.](Control%20Press%202%20Cross%20662318adefe641a9a0d5c1a99a645ead/20230428_171445.jpg)
+![Arduino UNO.](arduino.jpg)
 
 Arduino UNO.
 

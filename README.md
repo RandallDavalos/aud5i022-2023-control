@@ -26,7 +26,7 @@ Realizaremos, utilizando Arduino UNO y Arduino, un semáforo que realice las sig
 
 Software: Arduino IDE 2.10
 
-![Arduino UNO.](arduino.jpg)
+![Arduino UNO.](20230428_171445.jpg)
 
 Arduino UNO.
 
